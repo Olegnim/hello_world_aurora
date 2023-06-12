@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.sokolovsoftware.HelloWorld
+Exec=/usr/bin/ru.auroraos.sokolovsoftware.HelloWorld
+Name=Hello World
+Name[ru]=Привет МИР
+
+[X-Application]
+Permissions=PushNotifications;Internet;WebView
+OrganizationName=ru.auroraos.sokolovsoftware
+ApplicationName=HelloWorld
+ExecDBus=/usr/bin/ru.auroraos.sokolovsoftware.HelloWorld
